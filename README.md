@@ -51,7 +51,7 @@ Built to simulate how modern AI research assistants work — providing cited ans
 ---
 
 ## 📸 Preview
-![AI Research Copilot](screenshots/app.png)
+![AI Research Copilot](screenshotsapp.png)
 
 ---
 
